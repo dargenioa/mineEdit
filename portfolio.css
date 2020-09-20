@@ -1,0 +1,19 @@
+* {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 24px;}
+
+div.jumbotron.jumbotron-fluid {
+        text-align: center;
+        background-image: url(https://imgs.6sqft.com/wp-content/uploads/2016/05/02134107/new-jersey-skyline.jpg);
+        background-size: cover;
+        background-position: center;
+}
+
+footer {
+    text-align: center;
+}
+a {
+    padding: 10px;
+    color: lightskyblue;
+
+}
