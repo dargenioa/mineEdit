@@ -9,6 +9,17 @@ div.jumbotron.jumbotron-fluid {
         background-position: center;
 }
 
+h6 {
+    text-align: center;
+    font-style: italic;
+    color: lightskyblue;
+}
+
+figcaption {
+    text-align: center;
+    color: lightskyblue;
+}
+
 footer {
     text-align: center;
 }

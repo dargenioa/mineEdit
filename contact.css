@@ -8,11 +8,15 @@ h1 {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 100px;
-
 }
+
 #form {
     width: 50%;
     margin: 50px;
+}
+
+button {
+    background-color: grey;
 }
 
 footer {
@@ -20,4 +24,6 @@ footer {
 }
 a {
     padding: 10px;
+    color: lightskyblue;
+
 }
