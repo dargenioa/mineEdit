@@ -20,6 +20,16 @@ figcaption {
     color: lightskyblue;
 }
 
+.coming-soon {
+    width: 100%;
+}
+
+.card.mt-2{
+    margin: 250px;
+    width: 70%;
+    text-align: center;
+}
+
 footer {
     text-align: center;
 }

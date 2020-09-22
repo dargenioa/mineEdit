@@ -11,6 +11,15 @@ div.jumbotron.jumbotron-fluid {
 
 }
 
+img {
+    margin: 15px;
+   
+}
+
+p {
+    text-align: right;
+}
+
 footer {
     text-align: center;
 }
