@@ -12,7 +12,7 @@ h1 {
 
 #form {
     width: 50%;
-    margin: 50px;
+    margin: 90px;
 }
 
 button {
@@ -21,7 +21,9 @@ button {
 
 footer {
     text-align: center;
+    background-color: white;
 }
+
 a {
     padding: 10px;
     color: lightskyblue;
