@@ -1,7 +1,9 @@
 * {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 24px;
+
 }
+
 
 div.jumbotron.jumbotron-fluid {
     text-align: center;
@@ -24,6 +26,7 @@ footer {
     text-align: center;
     background-color: white;
 }
+
 a {
     color: lightskyblue;
     padding: 10px;
