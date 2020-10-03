@@ -31,3 +31,9 @@ The is my responsive portfolio design that ensures web applications render well 
 
 * Use the footer to open a new page for the provided social media
 
+#### Demo
+* GIF demo can be found in the demo folder
+
+* To view a video demo please click <a href=" https://drive.google.com/file/d/1X5VRusqdoIKmrWHwMDcWMKQ7tXItR7P5/view" alt="demo">here</a>
+
+
