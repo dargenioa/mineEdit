@@ -1,89 +1,33 @@
 # mineEdit
 
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
-
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
+The is my responsive portfolio design that ensures web applications render well on a variety of devices and window or screen sizes.
 
 
-## Directions
+## Key Features
 
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+* Three linked html files that include `index.html`, `portfolio.html` and `contact.html`.
 
-* Create the following files files: `index.html`, `portfolio.html` and `contact.html`.
+* Three different CSS files for specific styling
 
-* Using Bootstrap, develop your portfolio site with the following items:
+* Bootstrap CSS stylijng to create a responsive layout with consistant navbar and responsive images that minimize the use of media queries.
 
-   * A navbar
+* Submit a contact for in contact.html
 
-   * A responsive layout
+* View a list of completed projects and vist the links to Github and Github pages
 
-   * Responsive images
+* Use the links in the footer to visit my Github and LinkedIn profiles
 
-* The Bootstrap portfolio should minimize the use of media queries.
+* All outside links will open a new tab
 
-* Screenshots are provided as a reference in the `Assets/Images` folder. Your app does not need to be _exactly_ like the images. Use Bootstrap to create a similar, responsive layout.
+* Sticky footer will keep tht Github and LinkedIn links visible as you scroll
 
-### Hints
+* A GIF demo is provided in an html file
 
-* Use Bootstrap's grid system (containers, rows, and columns).
+### How To Use
 
-* Use an HTML validation service to ensure that each page has valid HTML.
+* Open index.html in your preferred browser and click on the nav links to travel throughout the portfolio
 
-### Minimum Requirements
+* In portfolio.html, click on the images and links in the caption to visit Github
 
-* Functional, deployed application
+* Use the footer to open a new page for the provided social media
 
-* GitHub repository with README describing the project
-
-* Navbar must be consistent on each page.
-
-* Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
-
-* All links must work.
-
-* Must use semantic html.
-
-* Each page must have valid and correct HTML. (use a validation service)
-
-* Must contain your personalized information. (bio, name, images, links to social media, etc.)
-
-* Must properly utilize Bootstrap components and grid system.
-
-
-### Bonus
-
-* Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (**Hint:** Check out the Bootstrap documentation).
-
-
-## Commit Early and Often
-
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
-
-* Your commit history is a signal to employers that you are actively working on projects and learning new skills.
-
-* Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
-
-Follow these guidelines for committing:
-
-* Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
-
-* Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-* Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-* Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-
-## Submission on BCS
-
-You are required to submit the following:
-
-* The URLs of the deployed applications
-
-* The URLs of the GitHub repositories
-
-- - -
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
